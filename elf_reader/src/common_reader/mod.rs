@@ -1,6 +1,6 @@
 mod file_reader;
 
-fn internal_adder(a: i32, b: i32) -> i32 {
+pub fn internal_adder(a: i32, b: i32) -> i32 {
     a + b
 }
 

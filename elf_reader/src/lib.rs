@@ -1,3 +1,2 @@
-pub mod elf_reader;
-
 mod common_reader;
+pub mod elf_reader;
